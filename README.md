@@ -12,8 +12,8 @@ jQuery plugin for smooth mega drop down that considered mouse coordinate context
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/satoshi.m8a/jquery-pretty-drop/master/dist/jquery.pretty-drop.min.js
-[max]: https://raw.github.com/satoshi.m8a/jquery-pretty-drop/master/dist/jquery.pretty-drop.js
+[min]: https://raw.github.com/satoshi-m8a/pretty-drop/master/dist/jquery.pretty-drop.min.js
+[max]: https://raw.github.com/satoshi-m8a/pretty-drop/master/dist/jquery.pretty-drop.js
 
 In your web page:
 
