@@ -1,0 +1,23 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "authors": [
+    "@satoshi_m8a <satoshi.m8a@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
