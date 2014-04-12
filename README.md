@@ -2,6 +2,12 @@
 
 jQuery plugin for smooth mega drop down that considered mouse coordinate context.
 
+## Demo
+
+[here][page]
+
+[page]: http://satoshi-m8a.github.io/pretty-drop
+
 ## Getting Started
 
 Download the [production version][min] or the [development version][max].
