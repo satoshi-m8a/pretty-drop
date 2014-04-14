@@ -33,7 +33,8 @@ jQuery(function($) {
           delay: 100, // ex: when entry angle is 30 degree, delay is 100 * 30 millisecond
           defaultDelay: 300, // when nothing needs to be delay. entry angle is 0 degree
           track: 5,
-          closeDelay: 500 //when the mouse leaves from entire menu.
+          closeDelay: 500, //when the mouse leaves from entire menu.
+          maxDelay: 1800
       });
 });
 </script>

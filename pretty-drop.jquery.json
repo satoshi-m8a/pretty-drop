@@ -2,11 +2,11 @@
   "name": "pretty-drop",
   "title": "Pretty Drop",
   "description": "jQuery plugin for smooth drop down menu.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "",
   "author": {
-    "name": "satoshi.m8a",
-    "url": "https://github.com/satoshi.m8a"
+    "name": "satoshi-m8a",
+    "url": "https://github.com/satoshi-m8a"
   },
   "repository": {
     "type": "git",

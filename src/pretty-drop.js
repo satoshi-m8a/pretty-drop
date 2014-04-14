@@ -102,7 +102,12 @@
             angle = 180 - angle;
         }
 
-        return this.options.delay * angle;
+        var delay = this.options.delay * angle;
+        if (delay > this.options.maxDelay) {
+            delay = this.options.maxDelay;
+        }
+
+        return delay;
     };
 
     PrettyDrop.defaults = {
@@ -112,7 +117,8 @@
         delay: 100,
         defaultDelay: 300,
         track: 5,
-        closeDelay: 500
+        closeDelay: 500,
+        maxDelay: 1300
     };
 
     var old = $.fn.prettyDrop;
